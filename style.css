@@ -118,3 +118,26 @@ a {
     text-align: center;
     width: 148px;
 }
+
+/* Quote section */
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    padding: 96px 164px;
+}
+
+.quote-text {
+    color: #1f2937;
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.author {
+    color: #1f2937;
+    font-size: 24px;
+    font-weight: 700;
+    align-self: flex-end;
+}
