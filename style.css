@@ -175,3 +175,24 @@ footer {
     background-color: #1f2937;
     padding: 48px 0;
 }
+
+/* Buttons */
+.fill {
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #3882f6;
+    padding: 6px 32px;
+    border: none;
+    border-radius: 6px;
+}
+
+.unfill {
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: transparent;
+    padding: 6px 32px;
+    border: 2px solid #f9faf8;
+    border-radius: 6px;
+}
