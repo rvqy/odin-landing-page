@@ -164,3 +164,14 @@ a {
     font-size: 18px;
     margin: 0;
 }
+
+/* footer */
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    font-size: 18px;
+    background-color: #1f2937;
+    padding: 48px 0;
+}
