@@ -126,7 +126,7 @@ a {
     justify-content: center;
     align-items: center;
     background-color: #e5e7eb;
-    padding: 96px 164px;
+    padding: 96px 224px;
 }
 
 .quote-text {
@@ -140,4 +140,27 @@ a {
     font-size: 24px;
     font-weight: 700;
     align-self: flex-end;
+}
+
+/* Call to action section */
+.action-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    background-color: #3882f6;
+    margin: 96px 172px;
+    padding: 40px 96px;
+}
+
+.action-content h2{
+    color: #f9faf8;
+    font-size: 24px;
+    margin: 0;
+}
+
+.action-content p {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0;
 }
